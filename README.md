@@ -9,11 +9,21 @@
   </head>
   <body>
     <header>
-      <div class="head">
-        <a href="#contact">Contact</a>
-        <a href="#skill">Skill</a>
-        <a href="#">About me</a>
-      </div>
+      <nav class="navigasi">
+        <!--untuk responsif-->
+        <input type="checkbox" id="btn-responsive" hidden />
+        <label for="btn-responsive" class="btn-responsive">
+          <span class="bar"></span>
+          <span class="bar"></span>
+          <span class="bar"></span>
+        </label>
+        <!--untuk responsif-->
+        <ul class="head">
+          <li><a href="#contact">Contact</a></li>
+          <li><a href="#skill">Skill</a></li>
+          <li><a href="#">About me</a></li>
+        </ul>
+      </nav>
     </header>
     <div class="container">
       <div class="header">
@@ -31,7 +41,7 @@
           <div class="top-text">
             <p><span class="fa fa-users"></span>Mufarikhatus Sintya</p>
             <p><span class="fa fa-map-marker"></span>Jepara, Jawa Tengah, Indonesia</p>
-            <p  id="skill"><span class="fa fa-graduation-cap"></span> Universitas Islam Nahdlatul Ulama Jepara</p>
+            <p id="skill"><span class="fa fa-graduation-cap"></span> Universitas Islam Nahdlatul Ulama Jepara</p>
           </div>
           <div class="garis">
             <hr />
