@@ -78,7 +78,7 @@
             <div class="fa-contact">
               <!-- fa-2x utnuk memperbesar 2 kali-->
               <a href="#"><span class="fa fa-phone"></span>089507111682</a>
-              <a href="#"><span class="fa fa-envelope-o"></span>mufasintya@gamil.com</a>
+              <a href="#"><span class="fa fa-envelope-o"></span>mufasintya@gmail.com</a>
               <a href="#"><span class="fa fa-linkedin"></span>mufasintya</a>
               <a href="#"><span class="fa fa-instagram"></span>@sintyaast</a>
             </div>
